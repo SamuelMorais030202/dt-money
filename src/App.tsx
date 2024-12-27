@@ -1,9 +1,10 @@
+import { Transactions } from "./pages/Transactions";
 
 export function App() {
 
   return (
     <>
-      <h1>Dt money</h1>
+      <Transactions />
     </>
   )
 }
