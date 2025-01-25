@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
@@ -9,12 +9,44 @@
       "createdAt": "2025-01-23T19:36:44.505Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Pizza",
       "type": "outcome",
       "category": "Compra",
       "price": 70,
       "createdAt": "2025-01-23T19:36:44.505Z"
+    },
+    {
+      "id": "f8b8",
+      "category": "Trabalho",
+      "description": "Desenvolvimento de Landing page",
+      "price": 3090,
+      "type": "income",
+      "createdAt": "2025-01-24T17:38:56.685Z"
+    },
+    {
+      "id": "d101",
+      "category": "Trabalho",
+      "description": "salario",
+      "price": 3200,
+      "type": "income",
+      "createdAt": "2025-01-24T17:53:08.715Z"
+    },
+    {
+      "id": "125b",
+      "category": "Alimentação",
+      "description": "Arroz",
+      "price": 33,
+      "type": "outcome",
+      "createdAt": "2025-01-24T18:34:43.024Z"
+    },
+    {
+      "id": "fdef",
+      "category": "compra",
+      "description": "celular",
+      "price": 5000,
+      "type": "outcome",
+      "createdAt": "2025-01-24T18:43:37.186Z"
     }
   ]
 }
